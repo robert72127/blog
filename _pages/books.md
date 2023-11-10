@@ -153,7 +153,7 @@ Campbell Biology [link](https://www.amazon.com/Campbell-Biology-11th-Lisa-Urry/d
 
 ## Finance & Economics
 
-Economics in One Lesson [link] (https://www.amazon.com/Economics-One-Lesson-Shortest-Understand/dp/0517548232)
+Economics in One Lesson [link](https://www.amazon.com/Economics-One-Lesson-Shortest-Understand/dp/0517548232)
 
 Superforecasting [link](https://www.amazon.com/Superforecasting-Science-Prediction-TETLOCK-GARDNER/dp/1847947158)
 
