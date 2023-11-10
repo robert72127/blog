@@ -5,11 +5,33 @@ author: "Robert"
 permalink: /books/
 ---
 
-This is where i will be sharing books (and papers, scripts) that i think are worth recommendig. 
+This is where i will be sharing books, textbooks, papers and scripts that i think are worth recommendig. 
 
 ## Mathematics
 
+First Course in Probability [link](https://www.amazon.com/First-Course-Probability-9th/dp/032179477X)
+
+Introduction to Probability for Computing [link](https://www.cs.cmu.edu/~harchol/Probability/book.html)
+
+A Programmer's Introduction to Mathematics [link](https://pimbook.org/)
+
+Paul's Online Notes [link](Paul's Online Notes)
+
+All You Wanted to Know about Mathematics but Were Afraid to Ask [link](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf)
+
+An Infinitely Large Napkin [link](https://venhance.github.io/napkin/Napkin.pdf)
+
+An Infinite Descent into Pure Mathematics [link](https://infinitedescent.xyz/dl/infdesc.pdf)
+
+The Art and Craft of Problem Solving [link](http://www.gang.umass.edu/~franz/Paul_Zeitz_The_Art_and_Craft_of_Problem_SolvingBookosorg.pdf)
+
 ## Physics
+
+Haliday, Resnick, Krane [link](https://www.amazon.com/Physics-1-Robert-Resnick/dp/0471320579)
+
+The Theoretical Minimum [link](https://knzhou.github.io/writing/Minimum.pdf)
+
+Teach Yourself Physics: a travel companion[link](https://www.amazon.com/Teach-Yourself-Physics-travel-companion/dp/3948763003)
 
 ## Computer Science
 
@@ -125,6 +147,24 @@ OCaml Programming: Correct + Efficient + Beautiful [link](https://cs3110.github.
 C++ Crash Course [link](https://www.amazon.com/C-Crash-Course-Josh-Lospinoso/dp/1593278888)
 
 
-## Heading 2
+## Biology
 
-## Heading 2
+Campbell Biology [link](https://www.amazon.com/Campbell-Biology-11th-Lisa-Urry/dp/0134093410/ref=pd_bxgy_img_sccl_1/143-0695118-1847207?pd_rd_i=0134093410&psc=1)
+
+## Finance & Economics
+
+Economics in One Lesson [link] (https://www.amazon.com/Economics-One-Lesson-Shortest-Understand/dp/0517548232)
+
+Superforecasting [link](https://www.amazon.com/Superforecasting-Science-Prediction-TETLOCK-GARDNER/dp/1847947158)
+
+Modern Principles of Economics [link](https://www.amazon.com/Modern-Principles-Economics-Tyler-Cowen/dp/1429278390)
+
+Expected Returns: An Investor's Guide to Harvesting Market Rewards [link](https://www.amazon.com/Expected-Returns-Investors-Harvesting-Rewards/dp/1119990726)
+
+The Little Book of Valuation [link](https://www.amazon.com/Little-Book-Valuation-Company-Profit/dp/1118004779)
+
+## Other
+
+Theory of Knowledge [link](https://www.amazon.com/Theory-Knowledge-Third-Nicholas-Alchin/dp/1471804151)
+
+The Ph.D. Grind: A Ph.D. Student Memoir [link](https://www.goodreads.com/en/book/show/15731248)
