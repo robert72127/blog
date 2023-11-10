@@ -1,15 +1,18 @@
 ---
 layout: post
 title: "About"
-author: "Chester"
+author: "Robert"
 permalink: /about/
 ---
+![Alt text](../assets/robert.png)
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
 
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
+Hi, My name's Robert.
 
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
+I'm a math and computer science student at the University of Wroclaw. I'm interested in machine learning, databases, applied math, and system programming. In my free time, I enjoy playing sports, digging into open-source projects, learning about history, and watching movies with my girlfriend. On this website, I'll be sharing updates on what I'm working on, the books I've read, and sometimes share my thoughts on various subjects.
 
-Thanks for reading!
+You can find me on:
+
+[Github](https://github.com/robert72127)
+
+[Linkedin](https://www.linkedin.com/in/robert-orlikowski-47bb86245/)
