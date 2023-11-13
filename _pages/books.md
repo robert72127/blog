@@ -5,7 +5,7 @@ author: "Robert"
 permalink: /books/
 ---
 
-This is where i will be sharing books, textbooks, papers and scripts that i think are worth recommendig. 
+Books, textbooks, papers and scripts that i think are worth recommendig. 
 
 ## Mathematics
 
