@@ -18,17 +18,17 @@ permalink: /projects/
     * Leader election.
     * Log replication.
 
+#### Diffusion model for image denoising
+    * Writen as 3 person, team project for deep learnign course.
+    * I was responsible for implementing sampling algorithm based on sciencific papers.
+    * Trained model on google cloud using TPU's
+
 #### Deep learning framework
     * Cpu only deep learning framework using numpy as backend.
     * Autograd on N-dimensional Matrices.
     * SGD with momentum and Adam optimizers.
     * Dataloader
     * Custom weight initialization.
-
-#### Diffusion model for image denoising
-    * Writen as 3 person, team project for deep learnign course.
-    * I was responsible for implementing sampling algorithm based on sciencific papers.
-    * Trained model on google cloud using TPU's
 
 #### Elements of database managment system
     * Implemented important parts of database managment systems in C++ as part of database implementation course. 

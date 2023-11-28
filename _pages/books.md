@@ -15,7 +15,7 @@ Introduction to Probability for Computing [link](https://www.cs.cmu.edu/~harchol
 
 A Programmer's Introduction to Mathematics [link](https://pimbook.org/)
 
-Paul's Online Notes [link](Paul's Online Notes)
+Paul's Online Notes [link](https://tutorial.math.lamar.edu/)
 
 All You Wanted to Know about Mathematics but Were Afraid to Ask [link](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf)
 
@@ -39,11 +39,13 @@ Teach Yourself Physics: a travel companion[link](https://www.amazon.com/Teach-Yo
 
 #### Theory oriented
 
+Understanding Deep Learning [link](https://udlbook.github.io/udlbook/)
+
 Probabilistic Machine Learning: An Introduction [link](https://probml.github.io/pml-book/book1.html)
 
 Probabilistic Machine Learning: Advanced Topics [link](https://probml.github.io/pml-book/book2.html)
 
-#### Practical
+#### Practice
 
 Grokking Deep Learning [link](https://www.amazon.com/Grokking-Deep-Learning-Andrew-Trask/dp/1617293709)
 
@@ -63,7 +65,11 @@ Linkers and Loaders [link](https://www.amazon.com/Linkers-Kaufmann-Software-Engi
 
 ### Algorithms and Data structures
 
+Open Data Structures [link](https://opendatastructures.org/)
+
 Competitive Programming [link](https://cpbook.net/)
+
+Competitive Programmer’s Handbook [link](https://cses.fi/book/book.pdf)
 
 Algorithms [link](https://jeffe.cs.illinois.edu/teaching/algorithms/)
 
