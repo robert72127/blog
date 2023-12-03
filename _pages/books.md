@@ -135,6 +135,8 @@ Linux Device Drivers [link](https://www.amazon.com/Linux-Device-Drivers-Jonathan
 
 The Linux Kernel Module Programming Guide [link](https://sysprog21.github.io/lkmpg/)
 
+A Heavily Commented Linux Kernel Source Code [link](http://www.oldlinux.org/download/ECLK-5.0-WithCover.pdf)
+
 ### Other
 
 Structure and Interpretation of Computer Programs [link](https://web.mit.edu/6.001/6.037/sicp.pdf)
@@ -152,6 +154,7 @@ OCaml Programming: Correct + Efficient + Beautiful [link](https://cs3110.github.
 
 C++ Crash Course [link](https://www.amazon.com/C-Crash-Course-Josh-Lospinoso/dp/1593278888)
 
+Modern C++ Programming [link](https://github.com/federico-busato/Modern-CPP-Programming)
 
 ## Biology
 

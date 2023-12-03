@@ -15,4 +15,4 @@ You can find me on:
 
 [Github](https://github.com/robert72127)
 
-[Linkedin](https://www.linkedin.com/in/robert-orlikowski-47bb86245/)
+[Linkedin](https://www.linkedin.com/in/rorlikowski/)
