@@ -141,6 +141,8 @@ A Heavily Commented Linux Kernel Source Code [link](http://www.oldlinux.org/down
 
 Web Browser Engineering [link](https://browser.engineering/)
 
+Ray Tracing in One Weekend [link](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
+
 Structure and Interpretation of Computer Programs [link](https://web.mit.edu/6.001/6.037/sicp.pdf)
 
 How to Design Programs [link](https://www.amazon.com/How-Design-Programs-Introduction-Programming/dp/0262534800/ref=pd_bxgy_img_sccl_2/143-0695118-1847207?pd_rd_i=0262534800&psc=1)
