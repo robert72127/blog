@@ -53,6 +53,7 @@ Deep Learning for Coders [link](https://www.amazon.com/Deep-Learning-Coders-fast
 
 Deep Learning with PyTorch [link](https://www.manning.com/books/deep-learning-with-pytorch)
 
+REINFORCEMENT LEARNING AND OPTIMAL CONTROL [link](https://web.mit.edu/dimitrib/www/RLbook.html)
 
 ### Compilers
 An Incremental Approach to Compiler Construction [link](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf)
