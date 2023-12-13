@@ -41,6 +41,10 @@ Teach Yourself Physics: a travel companion[link](https://www.amazon.com/Teach-Yo
 
 Understanding Deep Learning [link](https://udlbook.github.io/udlbook/)
 
+Deep Learning: Foundations and Concepts [link](https://issuu.com/cmb321/docs/deep_learning_ebook)
+
+REINFORCEMENT LEARNING AND OPTIMAL CONTROL [link](https://web.mit.edu/dimitrib/www/RLbook.html)
+
 Probabilistic Machine Learning: An Introduction [link](https://probml.github.io/pml-book/book1.html)
 
 Probabilistic Machine Learning: Advanced Topics [link](https://probml.github.io/pml-book/book2.html)
@@ -52,8 +56,6 @@ Grokking Deep Learning [link](https://www.amazon.com/Grokking-Deep-Learning-Andr
 Deep Learning for Coders [link](https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527)
 
 Deep Learning with PyTorch [link](https://www.manning.com/books/deep-learning-with-pytorch)
-
-REINFORCEMENT LEARNING AND OPTIMAL CONTROL [link](https://web.mit.edu/dimitrib/www/RLbook.html)
 
 ### Compilers
 An Incremental Approach to Compiler Construction [link](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf)
