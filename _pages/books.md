@@ -43,6 +43,8 @@ Understanding Deep Learning [link](https://udlbook.github.io/udlbook/)
 
 Deep Learning: Foundations and Concepts [link](https://issuu.com/cmb321/docs/deep_learning_ebook)
 
+The Mathematical Engineering of Deep Learning [link](https://deeplearningmath.org/)
+
 REINFORCEMENT LEARNING AND OPTIMAL CONTROL [link](https://web.mit.edu/dimitrib/www/RLbook.html)
 
 Probabilistic Machine Learning: An Introduction [link](https://probml.github.io/pml-book/book1.html)
@@ -141,6 +143,8 @@ The Linux Kernel Module Programming Guide [link](https://sysprog21.github.io/lkm
 A Heavily Commented Linux Kernel Source Code [link](http://www.oldlinux.org/download/ECLK-5.0-WithCover.pdf)
 
 ### Other
+
+The Art of HPC [link](https://theartofhpc.com/)
 
 Web Browser Engineering [link](https://browser.engineering/)
 
