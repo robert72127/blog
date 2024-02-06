@@ -31,8 +31,9 @@ Haliday, Resnick, Krane [link](https://www.amazon.com/Physics-1-Robert-Resnick/d
 
 The Theoretical Minimum [link](https://knzhou.github.io/writing/Minimum.pdf)
 
-Teach Yourself Physics: a travel companion[link](https://www.amazon.com/Teach-Yourself-Physics-travel-companion/dp/3948763003)
+Teach Yourself Physics: a travel companion [link](https://www.amazon.com/Teach-Yourself-Physics-travel-companion/dp/3948763003)
 
+How to become a GOOD Theoretical Physicist [link](https://www.goodtheorist.science/index.html)
 ## Computer Science
 
 ### Machine learning
