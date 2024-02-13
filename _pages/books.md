@@ -60,6 +60,8 @@ Deep Learning for Coders [link](https://www.amazon.com/Deep-Learning-Coders-fast
 
 Deep Learning with PyTorch [link](https://www.manning.com/books/deep-learning-with-pytorch)
 
+Dive into Deep Learning [link](https://d2l.ai/)
+
 ### Compilers
 An Incremental Approach to Compiler Construction [link](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf)
 
@@ -70,6 +72,8 @@ Essentials of Compilation [link](https://mitpress.mit.edu/9780262048248/essentia
 Linkers and Loaders [link](https://www.amazon.com/Linkers-Kaufmann-Software-Engineering-Programming/dp/1558604960)
 
 ### Algorithms and Data structures
+
+Data Structures for Data-Intensive Applications [link](https://cs-people.bu.edu/mathan/publications/fnt23-athanassoulis.pdf)
 
 Open Data Structures [link](https://opendatastructures.org/)
 
