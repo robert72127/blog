@@ -149,6 +149,10 @@ A Heavily Commented Linux Kernel Source Code [link](http://www.oldlinux.org/down
 
 ### Other
 
+CMake hands-on workshop [link](https://enccs.github.io/cmake-workshop/)
+
+PySDR: A Guide to SDR and DSP using Python [link](https://pysdr.org/)
+
 The Art of HPC [link](https://theartofhpc.com/)
 
 Web Browser Engineering [link](https://browser.engineering/)
