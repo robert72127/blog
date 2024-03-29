@@ -52,6 +52,8 @@ Probabilistic Machine Learning: An Introduction [link](https://probml.github.io/
 
 Probabilistic Machine Learning: Advanced Topics [link](https://probml.github.io/pml-book/book2.html)
 
+Tutorial on Diffusion Models for Imaging and Vision [link](https://arxiv.org/abs/2403.18103)
+
 #### Practice
 
 Grokking Deep Learning [link](https://www.amazon.com/Grokking-Deep-Learning-Andrew-Trask/dp/1617293709)
@@ -86,6 +88,8 @@ Algorithms [link](https://jeffe.cs.illinois.edu/teaching/algorithms/)
 Algorithms: Prallel and Sequential [link](https://www.umut-acar.org/algorithms-book)
 
 Advanced Algorithms and Data Structures [link](https://freecontent.manning.com/marcello-la-rocca-advanced-algorithms-and-data-structures/)
+
+The Art of Multiprocessor Programming [link](https://www.amazon.com/dp/0123705916)
 
 ### Databases
 
@@ -152,6 +156,8 @@ A Heavily Commented Linux Kernel Source Code [link](http://www.oldlinux.org/down
 CMake hands-on workshop [link](https://enccs.github.io/cmake-workshop/)
 
 PySDR: A Guide to SDR and DSP using Python [link](https://pysdr.org/)
+
+Performance Analysis and Tuning on Modern CPUs [link](https://book.easyperf.net/perf_book)
 
 The Art of HPC [link](https://theartofhpc.com/)
 
