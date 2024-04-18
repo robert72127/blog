@@ -38,23 +38,7 @@ How to become a GOOD Theoretical Physicist [link](https://www.goodtheorist.scien
 
 ### Machine learning
 
-#### Theory oriented
-
-Understanding Deep Learning [link](https://udlbook.github.io/udlbook/)
-
-Deep Learning: Foundations and Concepts [link](https://issuu.com/cmb321/docs/deep_learning_ebook)
-
-The Mathematical Engineering of Deep Learning [link](https://deeplearningmath.org/)
-
-REINFORCEMENT LEARNING AND OPTIMAL CONTROL [link](https://web.mit.edu/dimitrib/www/RLbook.html)
-
-Probabilistic Machine Learning: An Introduction [link](https://probml.github.io/pml-book/book1.html)
-
-Probabilistic Machine Learning: Advanced Topics [link](https://probml.github.io/pml-book/book2.html)
-
-Tutorial on Diffusion Models for Imaging and Vision [link](https://arxiv.org/abs/2403.18103)
-
-#### Practice
+#### Starters:
 
 Grokking Deep Learning [link](https://www.amazon.com/Grokking-Deep-Learning-Andrew-Trask/dp/1617293709)
 
@@ -63,6 +47,23 @@ Deep Learning for Coders [link](https://www.amazon.com/Deep-Learning-Coders-fast
 Deep Learning with PyTorch [link](https://www.manning.com/books/deep-learning-with-pytorch)
 
 Dive into Deep Learning [link](https://d2l.ai/)
+
+
+#### Cool ones:
+
+Understanding Deep Learning [link](https://udlbook.github.io/udlbook/)
+
+Deep Learning: Foundations and Concepts [link](https://issuu.com/cmb321/docs/deep_learning_ebook)
+
+The Mathematical Engineering of Deep Learning [link](https://deeplearningmath.org/)
+
+An Introduction to Deep Reinforcement Learning [link](https://arxiv.org/pdf/1811.12560.pdf)
+
+Foundations of Computer Vision [link](https://mitpress.mit.edu/9780262048972/foundations-of-computer-vision/)
+
+
+Tutorial on Diffusion Models for Imaging and Vision [link](https://arxiv.org/abs/2403.18103)
+
 
 ### Compilers
 An Incremental Approach to Compiler Construction [link](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf)
